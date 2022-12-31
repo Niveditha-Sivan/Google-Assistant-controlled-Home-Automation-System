@@ -6,15 +6,15 @@
 #define Relay1            D1
 #define Relay2            D5
 #define buzzer            D6
-#define WLAN_SSID       "Virus_Infected"             // Your SSID
-#define WLAN_PASS       "7560818745"        // Your password
+#define WLAN_SSID       "xxxxxx"             // Your SSID
+#define WLAN_PASS       "xxxxxx"        // Your password
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "NS_995"            // Replace it with your username
-#define AIO_KEY         "aio_DLXU66TpEpXCkd3DRRGm57YSiW8C"   // Replace with your Project Auth Key
+#define AIO_USERNAME    "xxxxx"            // Replace it with your username
+#define AIO_KEY         "xxxxx"   // Replace with your Project Auth Key
 
 /************ Global State (you don't need to change this!) ******************/
 
